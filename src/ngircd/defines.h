@@ -188,7 +188,7 @@
 #define MAX_HNDL_MODES_ARG 5
 
 /** Max. number of WHO replies. */
-#define MAX_RPL_WHO 25
+#define MAX_RPL_WHO 100 //upping to 100 for #sailthru 
 
 /** Max. number of WHOIS replies. */
 #define MAX_RPL_WHOIS 10
